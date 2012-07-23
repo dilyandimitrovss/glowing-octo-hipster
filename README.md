@@ -10,16 +10,16 @@ The parser follows the same conventions as the generator (defaults to stdout unl
 ## Examples of how these can be run:
 
 ### output to stdout
-php generate.php
+    php generate.php
 
 ### output to file
-php generate.php -o=data.xml
+    php generate.php -o=data.xml
 
 ### parse the generator output from stdin and output to stdout
-php generate.php | php parse.php
+    php generate.php | php parse.php
 
 ### parse previously generated data and output to file
-php parse.php -i=data.xml -o=parsed.xml
+    php parse.php -i=data.xml -o=parsed.xml
 
 # Contributing
 
