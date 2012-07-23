@@ -20,7 +20,7 @@ if(isset($options['o']) && !empty($options['o'])) {
 }
 
 // Start from the unix epoch
-$begin = new DateTime('1970-01-01 12:00:00');
+$begin = new DateTime('2012-01-01 00:00:00');
 
 // Up to today
 $end = new DateTime();
