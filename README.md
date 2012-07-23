@@ -23,6 +23,6 @@ The parser follows the same conventions as the generator (defaults to stdout unl
 
 # Contributing
 
-Fork the repository
-Make your changes in a feature branch (use git flow)
-Send a pull request from your feature branch
+* Fork the repository
+* Make your changes in a feature branch (use git flow)
+* Send a pull request from your feature branch
